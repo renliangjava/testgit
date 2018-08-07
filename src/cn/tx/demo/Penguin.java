@@ -1,5 +1,7 @@
 package cn.tx.demo;
 
+import org.omg.Messaging.SyncScopeHelper;
+
 class Penguin {
 	private String name = null; // Ãû×Ö
 	private int health = 0; // ½¡¿µÖµ
@@ -23,7 +25,9 @@ class Penguin {
 	
 	
 	
-
+	public static void method(){
+		
+	}
 	
 	
 	
